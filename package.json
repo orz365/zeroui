@@ -1,0 +1,19 @@
+{
+  "name": "zeroui",
+  "version": "1.0.0",
+  "description": "自己练习的东西",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orz365/zeroui.git"
+  },
+  "author": "leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orz365/zeroui/issues"
+  },
+  "homepage": "https://github.com/orz365/zeroui#readme"
+}
